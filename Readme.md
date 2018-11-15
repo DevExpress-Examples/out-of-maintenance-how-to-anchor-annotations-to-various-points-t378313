@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/AnnotationExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/AnnotationExample/MainWindow.xaml))
+<!-- default file list end -->
 # How to anchor annotations to various points
 
 
